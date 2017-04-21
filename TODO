@@ -1,0 +1,8 @@
+- Create a customized error page for external links
+- Give more information about the licences for the content
+- Create Teacher.html on how to use this activity as a teacher
+- Create Student.html on how to use this activity as a student
+- Create setup.cfg for non-Sugar install
+- Update setup.py to handle non-Sugar install
+- explain how to edit index.org with Emacs org-mode
+- create MANIFEST file listing all files in this activity

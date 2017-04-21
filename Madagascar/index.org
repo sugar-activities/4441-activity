@@ -1,0 +1,440 @@
+#+TITLE: Découverte de Madagascar
+#+AUTHOR: OLPC France
+#+DATE: May 2011
+#+STYLE: <link rel="stylesheet" type="text/css" href="main.css" />
+#+OPTIONS: toc:t
+
+* Cartes autour de Madagascar
+
+- [[file:cartes/afrique_vue_carte.jpg][Afrique (vue carte)]]
+- [[file:cartes/afrique_vue_satellite.jpg][Afrique (vue satellite)]]
+- [[file:cartes/afrique_sud_vue_satellite.jpg][Afrique: Sud (vue satellite)]]
+- [[file:cartes/ampangorinana_vue_satellite.jpg][Ampangorinana (vue satellite)]]
+- [[file:cartes/madagascar_vue_carte.jpg][Madagascar (vue carte)]]
+- [[file:cartes/madagascar2_vue_carte.jpg][Madagascar: deuxième vue (vue carte)]]
+- [[file:cartes/madagascar_vue_satellite.jpg][Madagascar (vue satellite)]]
+- [[file:cartes/madagascar_nord_vue_carte.jpg][Madagascar Nord (vue carte)]]
+- [[file:cartes/madagascar_nord_vue_satellite.jpg][Madagascar Nord (vue satellite)]]
+- [[file:cartes/madagascar_nord_nord_vue_satellite.jpg][Madagascar Nord Nord (vue satellite)]]
+- [[file:cartes/madagascar_nord_sud_vue_satellite.jpg][Madagascar Nord Sud (vue satellite)]]
+- [[file:cartes/madagascar_sud_vue_satellite.jpg][Madagascar Sud (vue satellite)]]
+- [[file:cartes/madagascar_sud_nord_vue_satellite.jpg][Madagascar Sud Nord (vue satellite)]]
+- [[file:cartes/mada_sud_sud_vue_satellite.jpg][Madagascar Sud-Sud (vue satellite)]]
+- [[file:cartes/monde_poles_vue_satellite.jpg][Monde: avec les pôles (vue satellite)]]
+- [[file:cartes/monde_vue_carte.jpg][Monde (vue carte)]]
+- [[file:cartes/monde_vue_satellite.jpg][Monde (vue satellite)]]
+- [[file:cartes/nosy_be_vue_carte.jpg][Nosy Be (vue carte)]]
+- [[file:cartes/nosy_be_vue_satellite.jpg][Nosy Be (vue satellite)]]
+- [[file:cartes/reunion_vue_carte.jpg][La Réunion (vue carte)]]
+- [[file:cartes/reunion_vue_satellite.jpg][La Réunion (vue satellite)]]
+
+* Pages Wikipédia concernant Madagascar
+
+** Liens sur les pages locales (sans le web)
+
+*** Histoire
+
+- [[file:frwp/Albert_Zafy.html][Albert_Zafy]] (Histoire, Hommes politiques)
+- [[file:frwp/Andrianampoinimerina.html][Andrianampoinimerina ]](Histoire, Hommes politiques)
+- [[file:frwp/Andry_Rajoelina.html][Andry_Rajoelina]] (Histoire, Hommes politiques)
+- [[file:frwp/Didier_Ratsiraka.html][Didier_Ratsiraka]] (Histoire, Hommes politiques)
+- [[file:frwp/Expédition_coloniale_Madagascar-Tonkin.html][Expédition coloniale Madagascar Tonkin]] (Histoire)
+- [[file:frwp/Histoire_de_Madagascar.html][Histoire de Madagascar]] (Histoire)
+- [[file:frwp/Insurrection_malgache_de_1947.html][Insurrection_malgache_de_1947]] (Histoire)
+- [[file:frwp/Jacques_Rabemananjara.html][Jacques_Rabemananjara]] (Histoire, hommes politiques)
+- [[file:frwp/Jean-Luc_Raharimanana.html][Jean-Luc_Raharimanana]] (Histoire)
+- [[file:frwp/Jean_Joseph_Rabearivelo.html][Jean_Joseph_Rabearivelo]] (Histoire) 
+- [[file:frwp/Jean_Laborde.html][Jean_Laborde]] (Histoire)
+- [[file:frwp/Joseph_Gallieni.html][Joseph_Gallieni]] (Histoire)
+- [[file:frwp/Mainty.html][Mainty]] (Histoire)
+- [[file:frwp/Marc_Ravalomanana.html][Marc_Ravalomanana]] (Histoire, hommes politiques)
+- [[file:frwp/Mouvement_démocratique_de_la_rénovation_malgache.html][Mouvement_démocratique_de_la_rénovation_malgache]] (Histoire)
+- [[file:frwp/Palais_de_la_Reine_(Tananarive).html][Palais_de_la_Reine_(Tananarive)]] (Histoire)
+- [[file:frwp/Parti_des_déshérités_de_Madagascar.html][Parti_des_déshérités_de_Madagascar]] (Histoire)
+- [[file:frwp/Philibert_Tsiranana.html][Philibert_Tsiranana]] (Histoire, hommes politiques)
+- [[file:frwp/Politique_de_Madagascar.html][Politique de Madagascar]] (Histoire)
+- [[file:frwp/Radama_II.html][Radama_II]] (Histoire, hommes politiques)
+- [[file:frwp/Radama_Ier.html][Radama_Ier]] (Histoire, hommes politiques)
+- [[file:frwp/Ranavalona.html][Ranavalona]] (Histoire, hommes politiques)
+- [[file:frwp/Ranavalona_II.html][Ranavalona_II]] (Histoire, hommes politiques)
+- [[file:frwp/Ranavalona_III.html][Ranavalona_III]] (Histoire, hommes politiques)
+- [[file:frwp/Rasoherina.html][Rasoherina]] (Histoire, hommes politiques)
+- [[file:frwp/Richard_Ratsimandrava.html][Richard_Ratsimandrava]] (Histoire, hommes politiques)
+- [[file:frwp/Royaume_de_Madagascar.html][Royaume de Madagascar]] (Histoire)
+- [[file:frwp/République_démocratique_malgache.html][République_démocratique_malgache]] (Histoire)
+- [[file:frwp/Vazimba.html][Vazimba]] (Histoire)
+
+*** Géographie
+
+- [[file:frwp/Afrique.html][Afrique]] (Géographie)
+- [[file:frwp/Antaifasy.html][Antaifasy]] (Géographie, Peuples)
+- [[file:frwp/Antaimoro_(peuple).html][Antaimoro_(peuple)]] (Géographie, Peuples)
+- [[file:frwp/Antaisaka_(peuple).html][Antaisaka_(peuple) ]](Géographie, Peuples)
+- [[file:frwp/Antakarana_(peuple).html][Antakarana_(peuple)]] (Géographie, Peuples)
+- [[file:frwp/Antambahoaka.html][Antambahoaka ]](Géographie, Peuples)
+- [[file:frwp/Antananarivo.html][Antananarivo]] (Géographie, Territoires)
+- [[file:frwp/Antandroy_(peuple).html][Antandroy_(peuple)]] (Géographie, Peuples)
+- [[file:frwp/Antanosy_(peuple).html][Antanosy_(peuple)]] (Géographie, Peuples)
+- [[file:frwp/Bara_(peuple).html][Bara_(peuple)]] (Géographie, Peuples)
+- [[file:frwp/Betsileo.html][Betsileo]] (Géographie, Peuples)
+- [[file:frwp/Betsimisaraka.html][Betsimisaraka]] (Géographie, Peuples)
+- [[file:frwp/Bezanozano_(ethnie).html][Bezanozano_(ethnie)]] (Géographie, Peuples)
+- [[file:frwp/D%E9mographie_de_Madagascar.html][Démographie de Madagascar]] (Géographie)
+- [[file:frwp/Faritany.html][Faritany]] (Géographie, Territoires)
+- [[file:frwp/Faritra.html][Faritra]] (Géographie, Territoires)
+- [[file:frwp/Fianarantsoa.html][Fianarantsoa]] (Géographie, Territoires)
+- [[file:frwp/Madagascar.html][Madagascar]] (Géographie)
+- [[file:frwp/Mahafaly.html][Mahafaly]] (Géographie, Peuples)
+- [[file:frwp/Majunga.html][Majunga]] (Géographie, Territoires)
+- [[file:frwp/Malgache.html][Malgache]] (Géographie)
+- [[file:frwp/Merina.html][Merina]] (Géographie, Peuples)
+- [[file:frwp/Province_de_Diego-Suarez.html][Province de Diego-Suarez]] (Géographie, Territoires)
+- [[file:frwp/Province_de_Fianarantsoa.html][Province de Fianarantsoa]] (Géographie, Territoires)
+- [[file:frwp/Province_de_Majunga.html][Province_de_Majunga]] (Géographie, Territoires)
+- [[file:frwp/Province_de_Tamatave.html][Province de Tamatave]] (Géographie, Territoires)
+- [[file:frwp/Province_de_Tananarive.html][Province de Tananarive]] (Géographie, Territoires)
+- [[file:frwp/Province_de_Tuléar.html][Province de Tuléar]] (Géographie, Territoires)
+- [[file:frwp/Sakalava.html][Sakalava]] (Géographie, Peuples)
+- [[file:frwp/Sihanaka.html][Sihanaka]] (Géographie, Peuples)
+- [[file:frwp/Subdivisions_de_Madagascar.html][Subdivisions de Madagascar]] (Géographie, Territoires)
+- [[file:frwp/Tamatave.html][Tamatave]] (Géographie, Territoires)
+- [[file:frwp/Tanala.html][Tanala]] (Géographie, Peuples)
+- [[file:frwp/Tananarive.html][Tananarive]] (Géographie, Territoires)
+- [[file:frwp/Tropique_du_Capricorne.html][Tropique du Capricorne]] (Géographie)
+- [[file:frwp/Tsimihety_(peuple).html][Tsimihety_(peuple)]] (Géographie, Peuples)
+- [[file:frwp/Vezo.html][Vezo]] (Géographie, Peuples)
+- [[file:frwp/Villes_de_Madagascar.html][Villes_de_Madagascar]] (Géographie, Territoires)
+- [[file:frwp/Économie_de_Madagascar.html][Économie de Madagascar]] (Géographie)
+- [[file:frwp/Équateur_(ligne_équinoxiale).html][Équateur (ligne équinoxiale)]] (Géographie)
+
+*** Culture
+
+- [[file:frwp/Clarisse_Ratsifandrihamanana.html][Clarisse_Ratsifandrihamanana]] (Culture)
+- [[file:frwp/Culture_de_Madagascar.html][Culture de Madagascar]] (Culture)
+- [[file:frwp/Georges_Andriamanantena.html][Georges_Andriamanantena]] (Culture)
+- [[file:frwp/Michèle_Rakotoson.html][Michèle_Rakotoson]] (Culture)
+
+*** Sciences de la Vie et de la Terre
+
+- [[file:frwp/Amphibiens_de_Madagascar.html][Amphibiens de Madagascar]] (SVT, Faune)
+- [[file:frwp/Faune_de_Madagascar.html][Faune de Madagascar]] (SVT, Faune)
+- [[file:frwp/Flore_de_Madagascar.html][Flore de Madagascar]] (SVT, Flore)
+- [[file:frwp/Liste_des_espèces_d'oiseaux_de_Madagascar.html][Liste des espèces d'oiseaux de Madagascar]] (SVT)
+
+** Liens sur le web vers la page Wikipédia
+
+Vous devez avoir accès à internet pour cliquer sur les liens ci-dessous.
+
+- http://fr.wikipedia.org/wiki/Afrique
+- http://fr.wikipedia.org/wiki/Albert_Zafy
+- http://fr.wikipedia.org/wiki/Amphibiens_de_Madagascar
+- http://fr.wikipedia.org/wiki/Andrianampoinimerina
+- http://fr.wikipedia.org/wiki/Andry_Rajoelina
+- http://fr.wikipedia.org/wiki/Antaifasy
+- http://fr.wikipedia.org/wiki/Antaimoro_(peuple)
+- http://fr.wikipedia.org/wiki/Antaisaka_(peuple)
+- http://fr.wikipedia.org/wiki/Antakarana_(peuple)
+- http://fr.wikipedia.org/wiki/Antambahoaka
+- http://fr.wikipedia.org/wiki/Antananarivo
+- http://fr.wikipedia.org/wiki/Antandroy_(peuple)
+- http://fr.wikipedia.org/wiki/Antanosy_(peuple)
+- http://fr.wikipedia.org/wiki/Bara_(peuple)
+- http://fr.wikipedia.org/wiki/Betsileo
+- http://fr.wikipedia.org/wiki/Betsimisaraka
+- http://fr.wikipedia.org/wiki/Bezanozano_(ethnie)
+- http://fr.wikipedia.org/wiki/Clarisse_Ratsifandrihamanana
+- http://fr.wikipedia.org/wiki/Culture_de_Madagascar
+- http://fr.wikipedia.org/wiki/Didier_Ratsiraka
+- http://fr.wikipedia.org/wiki/Démographie_de_Madagascar
+- http://fr.wikipedia.org/wiki/Expédition_coloniale_Madagascar-Tonkin
+- http://fr.wikipedia.org/wiki/Faritany
+- http://fr.wikipedia.org/wiki/Faritra
+- http://fr.wikipedia.org/wiki/Faune_de_Madagascar
+- http://fr.wikipedia.org/wiki/Fianarantsoa
+- http://fr.wikipedia.org/wiki/Flore_de_Madagascar
+- http://fr.wikipedia.org/wiki/Georges_Andriamanantena
+- http://fr.wikipedia.org/wiki/Histoire_de_Madagascar
+- http://fr.wikipedia.org/wiki/Insurrection_malgache_de_1947
+- http://fr.wikipedia.org/wiki/Jacques_Rabemananjara
+- http://fr.wikipedia.org/wiki/Jean-Luc_Raharimanana
+- http://fr.wikipedia.org/wiki/Jean_Joseph_Rabearivelo
+- http://fr.wikipedia.org/wiki/Jean_Laborde
+- http://fr.wikipedia.org/wiki/Joseph_Gallieni
+- http://fr.wikipedia.org/wiki/Liste_des_espèces_d'oiseaux_de_Madagascar
+- http://fr.wikipedia.org/wiki/Madagascar
+- http://fr.wikipedia.org/wiki/Mahafaly
+- http://fr.wikipedia.org/wiki/Mainty
+- http://fr.wikipedia.org/wiki/Majunga
+- http://fr.wikipedia.org/wiki/Malgache
+- http://fr.wikipedia.org/wiki/Marc_Ravalomanana
+- http://fr.wikipedia.org/wiki/Merina
+- http://fr.wikipedia.org/wiki/Michèle_Rakotoson
+- http://fr.wikipedia.org/wiki/Mouvement_démocratique_de_la_rénovation_malgache
+- http://fr.wikipedia.org/wiki/Palais_de_la_Reine_(Tananarive)
+- http://fr.wikipedia.org/wiki/Parti_des_déshérités_de_Madagascar
+- http://fr.wikipedia.org/wiki/Philibert_Tsiranana
+- http://fr.wikipedia.org/wiki/Politique_de_Madagascar
+- http://fr.wikipedia.org/wiki/Province_de_Diego-Suarez
+- http://fr.wikipedia.org/wiki/Province_de_Fianarantsoa
+- http://fr.wikipedia.org/wiki/Province_de_Majunga
+- http://fr.wikipedia.org/wiki/Province_de_Tamatave
+- http://fr.wikipedia.org/wiki/Province_de_Tananarive
+- http://fr.wikipedia.org/wiki/Province_de_Tuléar
+- http://fr.wikipedia.org/wiki/Radama_II
+- http://fr.wikipedia.org/wiki/Radama_Ier
+- http://fr.wikipedia.org/wiki/Ranavalona
+- http://fr.wikipedia.org/wiki/Ranavalona_II
+- http://fr.wikipedia.org/wiki/Ranavalona_III
+- http://fr.wikipedia.org/wiki/Rasoherina
+- http://fr.wikipedia.org/wiki/Richard_Ratsimandrava
+- http://fr.wikipedia.org/wiki/Royaume_de_Madagascar
+- http://fr.wikipedia.org/wiki/République_démocratique_malgache
+- http://fr.wikipedia.org/wiki/Sakalava
+- http://fr.wikipedia.org/wiki/Sihanaka
+- http://fr.wikipedia.org/wiki/Subdivisions_de_Madagascar
+- http://fr.wikipedia.org/wiki/Tamatave
+- http://fr.wikipedia.org/wiki/Tanala
+- http://fr.wikipedia.org/wiki/Tananarive
+- http://fr.wikipedia.org/wiki/Tropique_du_Capricorne
+- http://fr.wikipedia.org/wiki/Tsimihety_(peuple)
+- http://fr.wikipedia.org/wiki/Vazimba
+- http://fr.wikipedia.org/wiki/Vezo
+- http://fr.wikipedia.org/wiki/Villes_de_Madagascar
+- http://fr.wikipedia.org/wiki/économie_de_Madagascar
+- http://fr.wikipedia.org/wiki/équateur_(ligne_équinoxiale)
+
+* Exploration de ces informations par les élèves
+
+** Questions de géographie générale
+
+1. En utilisant la carte du monde, pouvez vous nommer les différents
+   continents ?
+
+2. Pouvez vous situer l'Afrique ?
+
+3. Pouvez vous en utilisant les 4 points cardinaux situer l'Afrique par
+   rapport à l'Europe ? Est-ce que l'Afrique est au nord de l'Europe ? au
+   sud ? à l'Est ? à L'ouest ? (utiliser la carte du monde )
+
+4. En utilisant une page du contenu Wikipedia, completez ces phrases :
+
+   1. « l'Afrique est un ........ couvrant 6% de la surface terrestre. »
+   2. Le continent est bordé par (...) au nord, le (...) et la (...) au
+      nord-est, l'(...) au sud-est et l'océan Atlantique à l'(...).
+
+5. Vrai ou faux (expliquez) :
+
+   1. L'Afrique comprend 55 pays.
+   2. L'Afrique couvre 16% de la surface terrestre.
+   3. L'Afrique est un continent.
+   4. Au sein de l'Afrique on observe plusieurs climats.
+
+6. Pouvez vous en utilisant les 4 points cardinaux situer Madagascar par
+   rapport au continent Africain ?
+
+** Questions générales sur Madagascar
+
+Aller chercher dans la page wikipédia appropriée les informations
+suivantes :
+
+1. Quels sont les deux noms malgaches pour désigner le pays Madagascar ?
+2. Quels sont les deux noms français pour désigner le pays Madagascar ?
+3. Qu'est ce qui sépare l'Afrique de Madagascar ?
+4. Que s'est il passé le 10 octobre 1958 ?
+
+** La géographie de Madagascar
+
+1. Vrai ou faux :
+
+   - Madagascar est la 5eme île la plus grande du monde.
+   - Madagascar est située au Nord de l'équateur.
+   - L'autre nom de Madagascar est l'île rouge.
+   - La Réunion est une île voisine de Madagascar.
+   - L'île Maurice est située à l'Ouest de Madagascar.
+   - Les Hautes Terres représentent 50% de la superficie du pays.
+   - L'Alaotra est le plus petit lac du pays.
+   - Il Y a 5 grands lacs sur l'île.
+   - Le Ravinala est l'arbre du voyageur.
+   - Le Ravinala est l'emblème de Madagascar.
+
+2. Compléter :
+
+   « Le relief est divisé en ... bandes du ... au ... : une bande
+   ... étroite à ..., des ... au ... et une zone de ... plus bas et de
+   ... à l'Ouest. »
+
+   « Madagascar est découpée en ... zones ... »
+
+   « L'île subit les influences des ... et de la ... . Il existe deux ... :
+   la saison ... et la saison ... »
+
+3. Qu'est ce qu'une île ?
+
+4. Quel(s) océan(s) entoure(nt) Madagascar ?
+
+5. Regardez maintenant la carte et dîtes si Madagascar est une île ?
+   Pourquoi ?
+
+6. Combien y a-t-il d'océans sur la planète ?
+
+7. Pouvez vous me les montrer sur la carte du monde ?
+
+8. Pouvez vous maintenant me montrer d'autres îles que Madagascar sur les
+   cartes ? choisir la carte qui vous semble la plus adaptée.
+
+9. Regarder la carte de la Réunion ... peut on voir Madagascar également
+   sur cette carte ? Trouvez donc une carte où l'on peut voir à la fois
+   l'île de la Réunion et l'île de Madagascar.
+
+10. Ouvrir la carte Madagascar, Pouvez vous situez la capitale ? Qu'est ce
+    qu'une Capitale ?
+
+** Questions sur Antananarivo
+
+1. En utilisant le contenu wikipedia, répondez à ces questions sur
+   Antananarivo :
+
+   - Quelles sont les significations du nom « Antananarivo » ?
+   - Quels sont les rois ayant construit la capitale ?
+   - Pendant quel siècle ?
+   - En quelle année les français sont ils arrivés à Tana ?
+
+2. Complétez : « Antananarivo est la capitale ... et ... de Madagascar dont
+   le maire est ... . »
+
+3. De quelle région fait partie Antananarivo ?
+
+4. Pouvez vous dire si la capitale de Madagascar est au nord , au sud, à
+   l'est ou à l'ouest du pays ?
+
+5. Pouvez vous maintenant situer nosy be de la même façon ?
+
+6. Ouvrir la bonne carte de Madagascar où l'on peut distinctement voir Nosy
+   Be. Sachant que Nosy Be est au ... Nord de Madagascar.
+
+* Exemples d'utilisation de l'activité par les enseignants
+
+** Les quatre points cardinaux
+
+- Durée : *1 heure*
+
+- Procédure :
+
+- Expliquer la notion des 4 points cardinaux
+
+- Ouvrir l'activité Madagascar
+
+- Ouvrir la carte du monde avec les pôles vue satellite.
+
+- Réduire le zoom
+
+- Repérer avec les enfants les différents continents que l'on peut voir sur
+  cette carte.
+
+- Situer les continents et les pays les uns par rapport aux autres en
+  utilisant les points cardinaux.
+
+- Exemple : l'Afrique est au sud de l'Europe. Le Brésil est à l'Ouest de
+  l'Afrique. L'Australie est au sud- est de la Chine...
+
+** Les reliefs
+
+- Durée : *1 heure*
+
+- Procédure :
+
+- Expliquer la notion de reliefs
+
+- Expliquer la notion de reliefs maritimes
+
+- Ouvrir l'ordinateur
+
+- Ouvrir l'activité madagascar
+
+- Ouvrir la carte du monde et ses pôles (en "vue satellite").
+
+- Repérer avec les enfants les différents niveaux de bleu pour la mer.
+
+- Observer que plus on est proche de la terre plus le bleu est clair et
+  inversement.
+
+- Demander aux enfants de zoomer sur une zone de relief dans la mer (5min)
+
+- Passer dans les rangs pour vérifier
+
+- Demander ensuite aux enfants de zoomer sur une zone de relief située par
+  exemple
+
+- Au sud du brésil, à l'est de l'Australie, au nord de l'europe et à l'est
+  du Groenland...
+
+- Passer dans les rangs à chaque fois pour vérifier que les enfants savent
+  bien mettre en pratique cette notion de relief.
+
+** La cartographie
+
+- Durée : *1 heure 30*
+
+- Procédure :
+
+- Expliquer la notion de cartographie
+
+- Expliquer ce qu'est un satellite
+
+- Ouvrir l'ordinateur
+
+- Ouvrir l'activité madagascar
+
+- Demander aux enfants n'importe quelle carte avec une vue satellite
+
+- Laisser quelques minutes pour observer cette carte.
+
+- Revenir à la page d'accueil et demander aux enfants d'ouvrir une autre
+  carte avec cette fois ci une vue carte.
+
+- Laisser quelques minutes pour observer cette carte, puis demander aux
+  élèves de citer les différences entre ces deux cartes.
+
+- Exemple : les couleurs, la présence de reliefs, la découpe, le nombre de
+  noms, les routes, etc.
+
+- Demander aux enfants de réfléchir au type de carte le plus adapté pour
+  certaines situations.  La réponse pouvant être que les deux types de
+  cartes fonctionnent.
+
+- Exemple : si je veux connaître la capitale, est-ce que j'utilise plutôt
+  une vue carte ou une vue satellite ?
+
+- Si je veux regarder les reliefs, qu'est-ce que j'utilise ?
+
+** Exploration de la carte de Madagascar
+
+- Durée: *2 heures*
+- Procédure :
+- Montrer des cartes papier (au mur de la classe)
+- Expliquer comment sont fabriquée les cartes papier
+- Ouvrir les ordinateurs
+- Ouvrir l'activité
+- Montrer une carte sur l'ordinateur
+- Expliquer comment sont fabriquées ces cartes
+- (A compléter...)
+
+* Qu'est-ce que Wikipédia ?
+
+Wikipédia ([[http://fr.wikipedia.org][lien internet]]) est une encyclopédie écrite par tous les
+internautes du monde entier, en plus de 100 langues différentes.  « Wiki »
+signifie que les internautes peuvent modifier le contenu des articles
+directement dans le site web ; « pedia » rappelle que Wikipédia est une
+encyclopédie (_encyclopedia_ en anglais).
+
+Le contenu de Wikipédia n'est pas vérifié par des experts mais les
+internautes se corrigent les uns les autres, et le contenu des articles
+évoluent en permanence ; au final, la qualité des articles est souvent
+excellente.
+
+* Droits d'auteurs
+
+Tous les contenus présents dans cette activités sont publiés sous licence
+Creative Commons By-Sa 3.0, comme les contenus de Wikipédia : vous êtes
+libres de les utiliser, des les modifier et de distribuer des versions
+modifiées sous la même licence.

@@ -1,0 +1,28 @@
+* [2011-05-20 ven.] Release version 2
+
+- Added categorization for local wikipedia pages
+- Added local links whenever possible
+- New script_repl_links.el file for creating local links
+
+* [2011-05-05 jeu] Release version 1
+
+- Added new Wikipedia pages
+- deleted utils/getwikipages.sh
+
+* [2011-02-28 mon] Work on maps and links
+
+- Clean up the Wikipedia html pages
+- Added dummy function in utils/cleanupwikipages.el
+
+* [2011-01-08 Sat] Work on maps and links
+
+- Cleaned up the map screenshots
+
+* [2011-01-06 Thu] Started development
+
+- added the maps to Madagascar/cartes
+- added the html copy of Wikipedia to Madagascar/frwp
+- created Madagascar/index.html with raw information
+- Updated the README
+- created the icon for the activity (thanks Clément Monjou)
+

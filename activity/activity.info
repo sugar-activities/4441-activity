@@ -1,0 +1,7 @@
+[Activity]
+name = Madagascar
+activity_version = 2
+service_name = org.laptop.MadagascarActivity
+icon = activity-madagascar
+class = madagascaractivity.MadagascarActivity
+license = GPLv3
